@@ -29,7 +29,8 @@ docker-compose --version
 ### Construir e Iniciar os Containers:
 docker-compose up --build
 
-## Como executar: Abra um navegador e vá para http://localhost:8080.
+## Como executar:
+###  Abra um navegador e vá para http://localhost:8080.
 
 Para parar os containers em execução, use:
 ```bash
