@@ -16,19 +16,19 @@
 
 ## Clone o repositório:
    ```bash
-      git clone https://github.com/rafaelbcabral/MVC-PDV.git
-      cd MVC-PDV
+   git clone https://github.com/rafaelbcabral/MVC-PDV.git
+   cd MVC-PDV
    ```
  
 ## Certifique-se de que o Docker e o Docker Compose estão instalados e funcionando:
    ```bash
-      docker --version
-      docker-compose --version
+   docker --version
+   docker-compose --version
    ```
 
 ## Construir e Iniciar os Containers:
    ```bash
-      docker-compose up --build
+   docker-compose up --build
    ```
 
 ## Como executar:
@@ -38,18 +38,18 @@
    Após iniciar os containers, a aplicação estará acessível no navegador. Verifique a documentação interna da aplicação para mais informações sobre como utilizar as funcionalidades do ponto de venda (PDV).
    Para verificar o status dos containers ou visualizar logs, use os seguintes comandos:
    ```bash
-      docker-compose ps
-      docker-compose logs
+   docker-compose ps
+   docker-compose logs
    ```
 
 Para ver todos:
    ```bash
-      docker ps -a
+   docker ps -a
    ```
 
 ## Para parar os containers em execução, use:
    ```bash
-      docker-compose down
+   docker-compose down
    ```
 
 
