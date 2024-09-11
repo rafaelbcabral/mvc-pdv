@@ -15,11 +15,11 @@ MVC-PDV é um projeto de demonstração que utiliza o padrão de arquitetura MVC
 
 Para executar este projeto, você precisa ter o [Docker](https://www.docker.com/get-started) e o [Docker Compose](https://docs.docker.com/compose/install/) instalados em sua máquina.
 
-1. Clone o repositório:
+### Clone o repositório:
    ```bash
    git clone https://github.com/rafaelbcabral/MVC-PDV.git
    cd MVC-PDV
-   
+```   
 ### Certifique-se de que o Docker e o Docker Compose estão instalados e funcionando:
 
    ```bash
