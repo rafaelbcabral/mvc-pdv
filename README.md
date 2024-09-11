@@ -1,5 +1,5 @@
 # MVC-PDV com Docker 🧩🐳
-![Screenshot_1](https://github.com/user-attachments/assets/072fbfbd-4a7a-48d3-a602-03eb25158776)
+![demonstration-of-site](https://github.com/user-attachments/assets/00e84a9b-ad10-42fb-830a-62659edffe11)
 
 ## Descrição:
    MVC-PDV é um projeto de demonstração que utiliza o padrão de arquitetura MVC para criar um ponto de venda (PDV). Este projeto é configurado com <strong>Docker</strong> para facilitar a execução em qualquer ambiente.
