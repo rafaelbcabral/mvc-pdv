@@ -9,8 +9,7 @@ MVC-PDV é um projeto de demonstração que utiliza o padrão de arquitetura MVC
 - [Instalação](#instalação)
 - [Como Executar](#como-executar)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Instalação
 
@@ -30,7 +29,7 @@ docker-compose --version
 ### Construir e Iniciar os Containers:
 docker-compose up --build
 
-## Acessar a Aplicação: Abra um navegador e vá para http://localhost:8080.
+## Como executar: Abra um navegador e vá para http://localhost:8080.
 
 Para parar os containers em execução, use:
 ```bash
