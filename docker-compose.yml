@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  web:
+    image: rafael1311cabral/mvc-pdv
+    ports:
+      - "8080:80"
