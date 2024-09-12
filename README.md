@@ -47,7 +47,9 @@ Para ver todos:
    docker ps -a
    ```
 
-## Para parar os containers em execução, use:
+## Para parar os containers em execução:
+   Pressione CTRL + C no terminal onde o container está sendo executado.
+   Ou use:
    ```bash
    docker-compose down
    ```
