@@ -1,5 +1,5 @@
 # MVC-PDV com Docker 🧩🐳
-![demonstration-of-site](https://github.com/user-attachments/assets/00e84a9b-ad10-42fb-830a-62659edffe11)
+https://github.com/user-attachments/assets/725002ad-70e9-4336-beb3-f8e063151077
 
 ## Descrição:
    MVC-PDV é um projeto de demonstração que utiliza o padrão de arquitetura MVC para criar um ponto de venda (PDV). Este projeto é configurado com <strong>Docker</strong> para facilitar a execução em qualquer ambiente.
@@ -49,7 +49,7 @@ Para ver todos:
 
 ## Para parar os containers em execução:
    Pressione CTRL + C no terminal onde o container está sendo executado.
-   Ou use:
+   Ou use em outro terminal:
    ```bash
    docker-compose down
    ```
